@@ -1,0 +1,44 @@
+
+
+
+
+label{
+    display: block;
+    margin: 10px 0;
+    margin-bottom: 0;
+    
+}
+
+input{
+    width: 100%;
+    margin-bottom: 5px;
+    padding: 2%;
+    outline: none;
+    border: none;
+    border-bottom: 2px solid black;
+   
+}
+
+#products{
+    margin: 5%;
+}
+
+#navbarNavDropdown {
+    
+    position: relative;/* Make it stick/fixed */
+
+    transition: top 0.3s; /* Transition effect when sliding down (and up) */
+  }
+  
+  /* Style the navbar links */
+  
+
+
+
+  
+
+
+
+
+
+
